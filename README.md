@@ -1,5 +1,13 @@
 # Tableau-Projects
 
+## Dashboard Links
+
+* [Employment Changes 2011 and 2014](https://public.tableau.com/views/EmploymentChanges2011and2014Tableau/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Continent Cancer Statistics (Life Expectancies)](https://public.tableau.com/views/ContinentCancerStatistics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Spotify Statistics](https://public.tableau.com/views/SpotifyStatistics_17652897752430/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## Key Topics & Skills Demonstrated (Tableau)
 
 ### 1. Exploratory Data Analysis in Tableau
