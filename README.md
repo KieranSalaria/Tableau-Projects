@@ -27,8 +27,6 @@ I created bar charts to compare average life expectancy across continents using 
 
 <img width="832" height="491" alt="image" src="https://github.com/user-attachments/assets/7575913b-7f7d-49c1-b72f-7982ad09ec00" />
 
----
-
 **Skills learned:**
 
 * Aggregating measures (average life expectancy)
@@ -36,6 +34,8 @@ I created bar charts to compare average life expectancy across continents using 
 * Sorting data to improve interpretability
 * Using bar charts to compare categorical values
 * Designing clear, readable charts for decision-makers
+
+---
 
 ### 3. Dashboard Design & User Interaction
 
