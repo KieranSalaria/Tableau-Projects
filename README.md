@@ -15,9 +15,6 @@ I explored unfamiliar datasets (global health data and Spotify audio features) t
 * Asking analytical questions to guide visual design
 * Identifying relevant metrics for organisational insight
 
-**Example Screenshot:**
-*Add screenshot of Tableau data source page or initial worksheet setup*
-
 ---
 
 ### 2. Comparative Analysis Using Bar Charts
